@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apoorvasrinivasan26
 - 👀 I’m interested in ML/AI in bio, metascience, building better tools to accelerate science
-- 🌱 I’m currently learning causal ML, LLMs
+- 🌱 I’m currently learning causal ML, LLMs for science
 - 📫 You can reach me at @apoorvasriniva on Twitter 
 
 <!---
