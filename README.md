@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apoorvasrinivasan26
-- 👀 I’m interested in ML/AI in bio and healthcare, metascience, building better tools to accelerate science and education
+- 👀 I’m interested in ML/AI in bio and healthcare, metascience, building better tools to accelerate biomedical science
 - 🌱 I’m currently learning causal ML, LLMs for science
 
 <!---
